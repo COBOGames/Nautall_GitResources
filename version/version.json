@@ -1,0 +1,11 @@
+{
+  "lastest": "0.2 beta",
+  "versions":
+  {
+    "0.1 beta":
+	{
+      "downloadUrl": "http://google.com",
+      "changelog": "Bla bla bla"
+    }
+  }
+}

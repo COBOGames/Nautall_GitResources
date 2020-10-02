@@ -1,4 +1,4 @@
-# Nautall_GitResources
+# Nautall Resources
  
 This project is used store resources needed by Nautall application.
 

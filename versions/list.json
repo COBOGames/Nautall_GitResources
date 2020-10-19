@@ -4,8 +4,10 @@
   {
     "0.1 beta":
 	{
-      "downloadUrl": "http://google.com",
-      "changelog": "Initial version"
+      "url": "http://google.com",
+      "fileSize": "",
+	  "releaseDate": "23/06/2020",	  
+	  "changelog": "Initial version"
     }
   }
 }
